@@ -1,0 +1,23 @@
+html,body{
+    background-color: rgba(17, 16, 24, 0.925);
+}
+.xd{
+ background-color: rgba(17, 16, 24, 0.925);
+ justify-content: center;
+    display: flex;
+}
+.ti{
+    text-align: center;
+    font-size: 33px;
+    padding: 10px;
+}
+
+.contain{
+    margin: 90px;
+    max-width:500px ;
+    width: 100%;
+    padding: 60px;
+    border-radius: 40px;
+    box-shadow: rgba(9, 99, 216, 0.952) 0px 22px 70px 4px;
+    color: aliceblue;
+}

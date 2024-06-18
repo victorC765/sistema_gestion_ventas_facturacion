@@ -1,0 +1,42 @@
+.coun{
+    background-color: rgba(233, 247, 245, 0.575);
+    padding: 60px;
+    opacity: 1;
+    margin: 20px;
+    border-radius: 50px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 13px 13px;
+}
+html,body{
+    background: rgb(49,0,143);
+    background: linear-gradient(90deg, rgba(49,0,143,1) 2%, rgba(181,0,116,1) 44%, rgba(238,86,95,1) 100%);
+}
+.gjj{
+    justify-content: end;
+    align-items: end;
+    text-align: end;
+}
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap');
+
+.font{
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-style: normal;
+    color: black;
+}
+.nrw{
+ background-color: rgba(183, 220, 255, 0.603);
+ border-radius: 55px;
+ padding: 10px;
+ width: 100%;
+ margin: 30px;
+ max-width: 250px;
+}
+
+.div{
+    display: flex;
+    justify-content: center;
+}
+.sep{
+    margin: 30px;
+    width: 400px;
+}
